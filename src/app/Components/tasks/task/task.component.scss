@@ -7,10 +7,15 @@ article {
 
 h2 {
   margin: 0;
+  margin-bottom: .5rem;
 }
 
 time {
   color: #9c77c9;
+}
+p{
+  margin: 0;
+  margin-top: .5rem;
 }
 
 .actions {
@@ -29,6 +34,8 @@ time {
   border: none;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
   transition: all 0.3s ease;
+  margin-top: .9rem;
+
 }
 
 .actions button:hover,
